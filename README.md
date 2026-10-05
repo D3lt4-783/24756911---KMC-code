@@ -12,8 +12,8 @@ This repository contains all code files, directories and analysed datasets used 
   5.1 PulseData(1234)-01.xlsx
   5.2 PulseDataAnalysis-01.R
 6. IndividualPulseData
-  6.1 PulseData-Pos1-02.csv
-  6.2 PulseData-Pos2-02.csv
+  - 6.1 PulseData-Pos1-02.csv
+  - 6.2 PulseData-Pos2-02.csv
   6.3 PulseData-Pos3-01.csv
   6.4 PulseData-Pos4-01.csv 
   6.5 IndivPulseDataAnalysis-02.R
