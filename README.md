@@ -1,6 +1,6 @@
 # 24756911---KMC-code
 
-This repository contains four code files. Namely:
+This repository contains all code files used in this project. Namely:
 1. RadialDisplacement.mlx
 2. RespirationLinearDisplacement_02.mlx
 3. breathing_mattress_control_with_UI_v4.ino
